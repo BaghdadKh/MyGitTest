@@ -5,6 +5,6 @@ object GitTest {
   }
 
   def sayHi(): Unit ={
-    println("Hi world !!")
+    println(" Hi !!")
   }
 }
