@@ -3,4 +3,8 @@ object GitTest {
     println("hello world !")
     println("hello world Baghdad")
   }
+
+  def sayHi(): Unit ={
+    println("Hi world !!")
+  }
 }
